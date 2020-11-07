@@ -1,0 +1,309 @@
+{
+    "menu": "menu_item",
+    "items": [
+        {
+            "category_id": 1,
+            "name": "Tomato Soup",
+            "price": 79
+        },
+        {
+            "category_id": 1,
+            "name": "Veg Soup",
+            "price": 79
+        },
+        {
+            "category_id": 1,
+            "name": "Mushroom Soup",
+            "price": 89
+        },
+        {
+            "category_id": 1,
+            "name": "Chicken Soup",
+            "price": 89
+        },
+        {
+            "category_id": 1,
+            "name": "Mutton Soup",
+            "price": 99
+        },
+
+        {
+            "category_id": 2,
+            "name": "Green Salad",
+            "price": 90
+        },
+        {
+            "category_id": 2,
+            "name": "Mix Veg Salad",
+            "price": 90
+        },
+        {
+            "category_id": 2,
+            "name": "Masala Papad Salad",
+            "price": 95
+        },
+        {
+            "category_id": 2,
+            "name": "Kabuli Channa Salad",
+            "price": 95
+        },
+
+        {
+            "category_id": 3,
+            "name": "Egg Omeletee",
+            "price": 50
+        },
+        {
+            "category_id": 3,
+            "name": "Egg Masala",
+            "price": 150
+        },
+        {
+            "category_id": 3,
+            "name": "Boiled Egg",
+            "price": 30
+        },
+        {
+            "category_id": 3,
+            "name": "Egg Burji",
+            "price": 99
+        },
+        {
+            "category_id": 3,
+            "name": "Mutton Omeletee",
+            "price": 150
+        },
+
+        {
+            "category_id": 4,
+            "name": "Gobi Manchurian",
+            "price": 160
+        },
+        {
+            "category_id": 4,
+            "name": "BabyCorn Manchurian",
+            "price": 165
+        },
+        {
+            "category_id": 4,
+            "name": "Mushroom Manchurian",
+            "price": 170
+        },
+        {
+            "category_id": 4,
+            "name": "Panner Chilly",
+            "price": 170
+        },
+        {
+            "category_id": 4,
+            "name": "Panner Tikka",
+            "price": 180
+        },
+        {
+            "category_id": 4,
+            "name": "Pappad",
+            "price": 15
+        },
+
+        {
+            "category_id": 5,
+            "name": "Aloo Masala",
+            "price": 155
+        },
+        {
+            "category_id": 5,
+            "name": "Aloo Mutter",
+            "price": 155
+        },
+        {
+            "category_id": 5,
+            "name": "Aloo Gobi",
+            "price": 155
+        },
+        {
+            "category_id": 5,
+            "name": "Panner Butter Masala",
+            "price": 165
+        },
+        {
+            "category_id": 5,
+            "name": "Palak Panner",
+            "price": 165
+        },
+        {
+            "category_id": 5,
+            "name": "Channa Masala",
+            "price": 165
+        },
+        {
+            "category_id": 5,
+            "name": "Mushroom Masala",
+            "price": 165
+        },
+
+        {
+            "category_id": 6,
+            "name": "Chicken 65",
+            "price": 185
+        },
+        {
+            "category_id": 6,
+            "name": "Tandoori Chicken",
+            "price": 205
+        },
+        {
+            "category_id": 6,
+            "name": "Kadai Chicken",
+            "price": 195
+        },
+        {
+            "category_id": 6,
+            "name": "Kadai Mutton",
+            "price": 250
+        },
+        {
+            "category_id": 6,
+            "name": "Kadai Prawns",
+            "price": 250
+        },
+
+        {
+            "category_id": 7,
+            "name": "Chicken Masala",
+            "price": 175
+        },
+        {
+            "category_id": 7,
+            "name": "Mutton Masala",
+            "price": 250
+        },
+        {
+            "category_id": 7,
+            "name": "Fish Masala",
+            "price": 225
+        },
+        {
+            "category_id": 7,
+            "name": "Prawn Masala",
+            "price": 250
+        },
+        {
+            "category_id": 7,
+            "name": "Kadai Chicken",
+            "price": 195
+        },
+        {
+            "category_id": 7,
+            "name": "Kadai Mutton",
+            "price": 265
+        },
+
+        {
+            "category_id": 8,
+            "name": "Mutton Biriyani",
+            "price": 350
+        },
+        {
+            "category_id": 8,
+            "name": "Chicken Biriyani",
+            "price": 325
+        },
+        {
+            "category_id": 8,
+            "name": "Prawn Biriyani",
+            "price": 350
+        },
+        {
+            "category_id": 8,
+            "name": "Fish Biriyani",
+            "price": 350
+        },
+        {
+            "category_id": 8,
+            "name": "Egg Biriyani",
+            "price": 195
+        },
+        {
+            "category_id": 8,
+            "name": "Ghee Rice",
+            "price": 85
+        },
+        {
+            "category_id": 8,
+            "name": "Jeera Rice",
+            "price": 95
+        },
+        {
+            "category_id": 8,
+            "name": "Plain Rice",
+            "price": 60
+        },
+        {
+            "category_id": 8,
+            "name": "Crud Rice",
+            "price": 75
+        },
+
+        {
+            "category_id": 9,
+            "name": "Roti",
+            "price": 35
+        },
+        {
+            "category_id": 9,
+            "name": "Butter Roti",
+            "price": 50
+        },
+        {
+            "category_id": 9,
+            "name": "Naan",
+            "price": 35
+        },
+        {
+            "category_id": 9,
+            "name": "Butter Naan",
+            "price": 50
+        },
+        {
+            "category_id": 9,
+            "name": "Parotta",
+            "price": 50
+        },
+        {
+            "category_id": 9,
+            "name": "Chappathi",
+            "price": 40
+        },
+
+        {
+            "category_id": 10,
+            "name": "Gulab Jamun",
+            "price": 60
+        },
+        {
+            "category_id": 10,
+            "name": "Carrot Halwa",
+            "price": 60
+        },
+        {
+            "category_id": 10,
+            "name": "Fresh Lime",
+            "price": 25
+        },
+        {
+            "category_id": 10,
+            "name": "Lime Soda",
+            "price": 35
+        },
+        {
+            "category_id": 10,
+            "name": "Cold Badam",
+            "price": 50
+        },
+        {
+            "category_id": 10,
+            "name": "Water",
+            "price": 20
+        }
+    ]
+}

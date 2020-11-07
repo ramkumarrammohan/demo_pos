@@ -1,0 +1,45 @@
+{
+    "menu": "menu_category",
+    "items": [
+        {
+            "id": 1,
+            "name": "Soup"
+        },
+        {
+            "id": 2,
+            "name": "Salad"
+        },
+        {
+            "id": 3,
+            "name": "Egg Item"
+        },
+        {
+            "id": 4,
+            "name": "Veg Dry"
+        },
+        {
+            "id": 5,
+            "name": "Veg Gravy"
+        },
+        {
+            "id": 6,
+            "name": "NonVeg Dry"
+        },
+        {
+            "id": 7,
+            "name": "NonVeg Gravy"
+        },
+        {
+            "id": 8,
+            "name": "Rice / Biriyani"
+        },
+        {
+            "id": 9,
+            "name": "Roti / Parotta"
+        },
+        {
+            "id": 10,
+            "name": "Soft Drink / Desserts"
+        }
+    ]
+}

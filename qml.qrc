@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuScreen.qml</file>
+        <file>items/MenuButton.qml</file>
+        <file>images/fork.png</file>
+        <file>themes/Theme.qml</file>
+        <file>StartUpScreen.qml</file>
+        <file>images/startup.gif</file>
+        <file>demo_data/menuitem.json</file>
+        <file>demo_data/menucategory.json</file>
+        <file>items/CustomFlatButton.qml</file>
+        <file>items/AppHeader.qml</file>
+    </qresource>
+</RCC>
